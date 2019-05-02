@@ -14,7 +14,7 @@ $(call inherit-product, device/xiaomi/leo/leo.mk)
 
 ## Device identifier. This must come after all inclusions
 PRODUCT_DEVICE := leo
-PRODUCT_NAME := mk_leo
+PRODUCT_NAME := dot_leo
 PRODUCT_BRAND := Xiaomi
 PRODUCT_MODEL := Mi Note Pro
 PRODUCT_MANUFACTURER := Xiaomi

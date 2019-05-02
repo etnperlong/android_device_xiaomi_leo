@@ -1,4 +1,4 @@
-Copyright 2018 - The Mokee Project
+Copyright 2018 - The DotOS Project
 
 Device configuration for Xiaomi Note Pro.
 =====================================
